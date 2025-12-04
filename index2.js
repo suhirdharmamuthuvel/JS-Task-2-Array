@@ -20,10 +20,10 @@
 
 // function Checkstring(duparr,check){
 //     let arr=[]
-//     chk=check.toLowerCase()
+//     let chk=check.toLowerCase()
 //     let x=true;
 //     for(let i=0;i<duparr.length;i++){
-//         arr[arr.length]=duparr[i].toLowerCase();
+        // arr[arr.length]=duparr[i].toLowerCase();     //used to push too
 //         if(arr[i]==chk){
 //             x=false;
 //             console.log("true","'"+check+"'","is in the Index of",i)
